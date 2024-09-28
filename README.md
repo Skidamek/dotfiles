@@ -63,8 +63,8 @@ cd dotfiles
 
 then use GNU stow to create symlinks
 
-### Inspired by [zenities](https://github.com/hayyaoe/zenities)
-
 ```bash
 stow .
 ```
+
+### Inspired by [zenities](https://github.com/hayyaoe/zenities)
