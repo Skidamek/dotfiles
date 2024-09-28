@@ -28,7 +28,7 @@ paru -S hyprland hypridle hyprlock hyprpaper \
     fastfetch \
     cava \
     kitty \
-    rofi \
+    rofi-wayland \
     vesktop \
     yazi \
     zsh
