@@ -20,58 +20,18 @@ paru -S stow
 
 ## Requirements to make actual use of these files
 
-### Hyprland
+### Hyprland Eww FastFetch Cava Kitty Rofi Vesktop Yazi Zsh
 
 ```
-paru -S hyprland hypridle hyprlock hyprpaper
-```
-
-### Eww
-
-```
-paru -S eww
-```
-
-### Fastfetch
-
-```
-paru -S fastfetch
-```
-
-### Cava
-
-```
-paru -S cava
-```
-
-### Kitty
-
-```
-paru -S kitty
-```
-
-### Rofi
-
-```
-paru -S rofi
-```
-
-### Vesktop
-
-```
-paru -S vesktop
-```
-
-### Yazi
-
-```
-paru -S yazi
-```
-
-### Zsh
-
-```
-paru -S zsh
+paru -S hyprland hypridle hyprlock hyprpaper 
+        eww 
+        fastfetch
+        cava
+        kitty
+        rofi
+        vesktop
+        yazi
+        zsh
 ```
 
 ## Instalation
