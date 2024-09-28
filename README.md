@@ -34,6 +34,12 @@ paru -S hyprland hypridle hyprlock hyprpaper \
         zsh
 ```
 
+### Oh My Zsh
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## Instalation
 
 Clone repo to your $HOME directory using git.
