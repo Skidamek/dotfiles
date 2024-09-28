@@ -2,6 +2,17 @@
 
 This directory contains the dotfiles for my system
 
+
+https://github.com/user-attachments/assets/7fc202a2-9c8e-4e43-9c0c-494307dde664
+
+
+
+
+https://github.com/user-attachments/assets/84a03f8b-b713-4ece-bcf6-03d2da514fc2
+
+
+
+
 ## Requirements to recreate
 
 Ensure you have the following installed on your system (I use CachyOS BTW)
@@ -20,7 +31,7 @@ paru -S stow
 
 ## Requirements to make actual use of these files
 
-### Hyprland Eww FastFetch Cava Kitty Rofi Vesktop Yazi Zsh
+### Hyprland Eww FastFetch Cava Kitty Rofi Vesktop Yazi Zsh Wal
 
 ```bash
 paru -S hyprland hypridle hyprlock hyprpaper \
@@ -31,7 +42,8 @@ paru -S hyprland hypridle hyprlock hyprpaper \
         rofi-wayland \
         vesktop \
         yazi \
-        zsh
+        zsh \
+        python-pywal
 ```
 
 ### Oh My Zsh
