@@ -24,14 +24,14 @@ paru -S stow
 
 ```bash
 paru -S hyprland hypridle hyprlock hyprpaper \
-    eww \
-    fastfetch \
-    cava \
-    kitty \
-    rofi-wayland \
-    vesktop \
-    yazi \
-    zsh
+        eww \
+        fastfetch \
+        cava \
+        kitty \
+        rofi-wayland \
+        vesktop \
+        yazi \
+        zsh
 ```
 
 ## Instalation
