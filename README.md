@@ -2,15 +2,9 @@
 
 This directory contains the dotfiles for my system
 
-
 https://github.com/user-attachments/assets/7fc202a2-9c8e-4e43-9c0c-494307dde664
 
-
-
-
 https://github.com/user-attachments/assets/84a03f8b-b713-4ece-bcf6-03d2da514fc2
-
-
 
 
 ## Requirements to recreate
@@ -43,7 +37,9 @@ paru -S hyprland hypridle hyprlock hyprpaper \
         vesktop \
         yazi \
         zsh \
-        python-pywal
+        python-pywal \
+        hyprshot \
+        pamixer
 ```
 
 ### Oh My Zsh

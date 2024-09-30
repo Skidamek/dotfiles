@@ -1,0 +1,6 @@
+# Exclude all files from vesktop directory
+.config/vesktop/*
+
+# Allow vesktop/settings/quickCss.css
+!.config/vesktop/settings/quickCss.css
+
